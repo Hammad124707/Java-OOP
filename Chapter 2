@@ -1,0 +1,36 @@
+OOP mein there are 4 fundamental concepts 
+
+-abstraction
+-polymorphism
+-inheritance
+-encapsulation
+
+* Abstraction: Abstraction ka matlab he to only concentrate on the things which are important for us. Like medicines, we only prefer to know when to take it, we usually dont dig
+             into its pharmaceutical details. 
+
+              It helps us manage complexity.
+
+              Abstraction helps you identify and focus on the essential characteristics or attributes of an object or system.
+              For a car, the relevant attributes might include speed, direction, and fuel level.
+
+
+* Inheritance:   Inheritance ka matlab kese 1 class dosri class ke (attributes and methods) ko inherit karke use karsakti he. This helps us not to rewrite our code
+                again and again. This way we can also form a hierarchy.
+
+                A new sub class can inherit all the attributes of all of its ancestor classes. While having new unique attributes.  
+
+
+*Polymorphism: Poly means many, and morphisms mean forms. so this new word means many forms. When we make a sub class, it inherits all the attributes and  methods.
+              The method will be used as defined in the parent class. So all subclasses will have the same method usage as the parent class.However we can change the 
+              way we use the method for each class by specifying . SO the name of the method will be same but it will be used differently by each class.
+
+              Polymorphism refers to the ability of a class to provide different implementations of a method, depending on the type of object that is
+              passed to the method.
+
+
+
+
+
+
+
+
