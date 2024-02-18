@@ -1,0 +1,16 @@
+source code : it is written in the programming language by the average user
+
+compilation : transforming thee source code into an intermediate form , known as machine code/ bytecode
+
+execution : it occurs after the compilation phase, process of running the compiled program to 
+perform the tasks specified in the source code.
+
+Java's compiler is known as : JDK
+The JDK not only includes the compiler but also 
+various other tools and libraries necessary for Java development.
+
+it transforms java source code ( .java) into a java byte code (.class) 
+
+JVM:  jvm executes the bytecode into a machine code, which is then executed by our cpu.(sometimes using JIT)
+
+Java compiler requires that a source file use the .java filename extension
