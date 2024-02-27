@@ -1,0 +1,15 @@
+Access modifiers help to restrict the scope.
+Can be applied to class, variable, method, constructor too
+
+Private : Can not be applied to top level classes. Can only be applied to nested  classes.The methods or
+data members declared as private are accessible only within the class in which they are declared.
+
+Protected :
+
+Default : having default access modifiers are accessible only within the same package.
+
+Public : It has the widest scope among all the access modifiers, classes , methods declared as public can be acceessed from anywhere of the program.
+
+
+
+Lastly in java we use package to group all the related classes.
