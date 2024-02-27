@@ -7,4 +7,12 @@ Static means ke this method can be called from direct class
 void tells about the return type of our method
 name of our method is main
 
-String[] args are the paramters. String[] args are an array of strings that represent the command-line arguments passed to the Java program when it is executed.
+String[] args are the paramters. String[] args are an array of strings that represent the command-line arguments passed 
+to the Java program when it is executed.
+
+
+FunFact: Java mein sirf 1 time pe 1 hi file public ho sakti he.
+
+Java mein method banate waqt zaroori he ke ham log uski return type ko specify karien
+
+We can only call constructors while making our object
