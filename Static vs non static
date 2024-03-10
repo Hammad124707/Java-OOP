@@ -1,4 +1,4 @@
 Static and non static are applied to methods.
 
-Static methods belong to classes, we can all them on classes without creating the instance of the class
+Static methods belong to classes, we can call them on classes without creating the instance of the class
 Non static methods can access both static data members and static methods and also nonstatic method and data members
